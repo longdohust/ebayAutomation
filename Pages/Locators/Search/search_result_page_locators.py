@@ -1,0 +1,5 @@
+first_item = "//li[@class='s-item s-item__pl-on-bottom'][1][contains(@id,'item')]//a[@class='s-item__link']/div/span"
+by_it_now_btn = "(//*[@class='srp-format-tabs-h2'])[3]"
+open_box_con = "//a[@class='fake-menu-button__item']//span[text()='Open box']"
+condition_btn = "(//button[@class='fake-menu-button__button btn btn--small btn--secondary'])[2]"
+search_result_text = "//*[@class='srp-controls__count-heading']"
